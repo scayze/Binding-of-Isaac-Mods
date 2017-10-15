@@ -1,0 +1,8 @@
+<ItemPools>
+	<Pool Name="redChest">
+		<Item Name="Ragged Rags" Weight="1.2" DecreaseBy="0.5" RemoveOn="0.1"/>
+	</Pool>
+	<Pool Name="curse">
+		<Item Name="Ragged Rags" Weight="1.2" DecreaseBy="0.5" RemoveOn="0.1"/>
+	</Pool>
+</ItemPools>

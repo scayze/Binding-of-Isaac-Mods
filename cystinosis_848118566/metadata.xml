@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Cystinosis</name>
+    <directory>cystinosis</directory>
+    <id>848118566</id>
+    <description>Stone tears!
+
+This item can be found in item rooms, and will give Isaac stone tears! Besides being a DMG upgrade, these tears also have a chance to cause shock-waves upon hitting an enemy, how cool is that? Great for taking out large swarms of enemies, but careful, much like Ipecac, this item can damage you if you get too close to the shock-waves!
+Sexy coding by Scayze and not-so-sexy spriting by Ashkait.
+
+Video of the mod in action: https://gfycat.com/ValidFemaleFowl</description>
+    <version>1.1</version>
+    <visibility>Private</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+</metadata>

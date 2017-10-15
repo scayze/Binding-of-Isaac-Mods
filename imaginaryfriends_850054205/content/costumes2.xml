@@ -1,0 +1,3 @@
+<costumes anm2root="gfx/characters/">
+	<costume anm2path="frndscostume.anm2" hasSkinAlt="true" priority="99" type="none"/>
+</costumes>    

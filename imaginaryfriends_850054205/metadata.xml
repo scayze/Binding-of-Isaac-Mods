@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Imaginary Friends</name>
+    <directory>imaginaryfriends</directory>
+    <id>850054205</id>
+    <description>With friends like these, who needs enemies!
+
+Imaginary Friends is an item you can find in item rooms that will make any consumable you pick up grow wings and help you in combat! (You still get the consumable when picking them up, don't worry!) 
+Each consumable does their own thing; bombs explode, keys do double damage, soul hearts do a crack the sky effect, gold items stay with you for the whole floor, and more! 
+
+Coding by Scayze and concept &amp; &quot;sprites&quot; by Ashkait!</description>
+    <version>1.2</version>
+    <visibility>Private</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Pickups"/>
+    <tag id="Familiars"/>
+</metadata>

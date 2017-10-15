@@ -1,0 +1,4 @@
+<costumes anm2root="gfx/characters/">
+	<costume anm2path="robothatani.anm2" hasSkinAlt="true" priority="24" type="none"/>
+	<costume anm2path="TriGlow.anm2" hasSkinAlt="true" priority="24" type="none"/>
+</costumes>    

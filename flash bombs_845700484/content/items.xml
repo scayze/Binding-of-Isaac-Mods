@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+	<passive description="Blinding blasts!" gfx="FlashBombs.png" id="500" name="Blank Bombs" bombs="5" />
+</items>

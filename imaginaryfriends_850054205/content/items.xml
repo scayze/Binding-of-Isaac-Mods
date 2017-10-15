@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+	<passive description="With friends like these..." gfx="IFicon.png" name="Imaginary Friends" />
+</items>

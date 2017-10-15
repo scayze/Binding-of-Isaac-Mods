@@ -1,0 +1,8 @@
+<ItemPools>
+	<Pool Name="devil">
+		<Item Name="7 Seals" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+	</Pool>
+	<Pool Name="greedDevil">
+		<Item Name="7 Seals" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+	</Pool>
+</ItemPools>

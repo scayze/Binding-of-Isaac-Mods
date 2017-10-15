@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Mulligrims</name>
+    <directory>mulligrims</directory>
+    <id>862788621</id>
+    <description>Mulligrims! More Grimaces.
+
+This mod adds some simple new monster variants to the game: Mulligrims and Nest Grimaces! These Grimaces cough up flies and spiders respectively until the room is cleared! There is a limit on how many flies and spiders they can spawn, so you won't get too overwhelmed! They have a small chance to replace any other existing grimace. 
+
+Art by Ashkait and code by Scayze</description>
+    <version>1.2</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Enemies"/>
+</metadata>

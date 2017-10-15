@@ -1,0 +1,8 @@
+<sounds root="sfx/">
+	<sound id="460" name="tri_pickup">
+		<sample weight="1" path="tri_pickup.wav"/>
+	</sound>
+	<sound id="461" name="max_reached">
+		<sample weight="1" path="max_reached.wav"/>
+	</sound>
+</sounds>

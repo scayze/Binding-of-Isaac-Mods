@@ -1,0 +1,5 @@
+<sounds root="sfx/">
+	<sound id="459" name="pingpongpong">
+		<sample weight="1" path="pingpongpong.wav"/>
+	</sound>
+</sounds>

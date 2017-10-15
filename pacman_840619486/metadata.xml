@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Pacman Minigame!</name>
+    <directory>pacman</directory>
+    <id>840619486</id>
+    <description>A mod for The Binding Of Isaac: Afterbirth + that adds a room in which the classic PacMan game can be played.
+
+------------------------------------------------------------------
+
+If there is a bug, please let me know here in the comments or on Twitter (@ThatScayze). 
+
+Im also open for any suggestions, so please leave a comment :D
+
+-------------------------------------------------------------------
+Also, Thanks to all of the ModdingOfIsaac Discord Server. Without those people the mod would probably a buggy hell!
+including but not limited to: KyoZM, freeze, XBagon, KubeRoot, Saxarok, Jean-alphonse, WinnyMcWinFace and more!
+Special thanks: RetroGamerSP, for Menu art, Coin and PowerPellet sprites, and pacman audio
+-------------------------------------------------------------------
+Known Bugs: 
+- It might take a while to get to the next level after eating every coin</description>
+    <version>1.8</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Rooms"/>
+    <tag id="Challenges"/>
+</metadata>

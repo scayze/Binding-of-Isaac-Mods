@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Pothead</name>
+    <directory>pothead</directory>
+    <id>859698564</id>
+    <description>Pot head! Turn enemies into pots!
+
+Pot head (yes, really) is an item you can find in item rooms that give Isaac a very low chance to fire a hex tear, that'll turn whatever it hits into a pot! There are currently 4 different types of pot that can spawn and each do their own area effect when &quot;shattered!&quot; Red pots are volatile and explode with fire. Blue pots are overflowing with tears and release them when broken! Green pots are nasty and are filled with all kinds of gross creep. And purple pots are... scary! 
+
+Sprites by Ashkait and code by Scayze</description>
+    <version>1.6</version>
+    <visibility>Private</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+</metadata>

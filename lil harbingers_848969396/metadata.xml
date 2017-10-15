@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Lil Harbingers</name>
+    <directory>lil harbingers</directory>
+    <id>848969396</id>
+    <description>Lil' Harbingers! Ain't they cuties?
+
+The &quot;7 Seals&quot; is a item found in devil deals that unleashes the wrath of the horsemen to aid you!... Granted they're about 3x smaller than their usual selves but that doesn't mean they won't try their best to help you! It'll cycle through them at random and each horseman will help you out in their own way, on top of  spawning their respective locusts!
+
+Coding by Scayze and Sprites that took forever by Ashkait!</description>
+    <version>1.1</version>
+    <visibility>Private</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Familiars"/>
+</metadata>

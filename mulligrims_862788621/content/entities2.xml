@@ -1,0 +1,8 @@
+<entities anm2root="gfx/" version="5">
+    <entity anm2path="mulligrim.anm2" baseHP="20" boss="0" champion="0" collisionDamage="0" collisionMass="100" collisionRadius="13" friction="1" id="42" name="Mulligrim" numGridCollisionPoints="0" shadowSize="24" stageHP="0" variant="2" shutdoors="false" portrait="61" bestiary="true" bestiaryTransform="0,0,1" bestiaryAnim="Appear">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+    <entity anm2path="nestgrim.anm2" baseHP="20" boss="0" champion="0" collisionDamage="0" collisionMass="100" collisionRadius="13" friction="1" id="42" name="Nestgrim" numGridCollisionPoints="0" shadowSize="24" stageHP="0" variant="3" shutdoors="false" portrait="61" bestiary="true" bestiaryTransform="0,0,1" bestiaryAnim="Appear">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+</entities>

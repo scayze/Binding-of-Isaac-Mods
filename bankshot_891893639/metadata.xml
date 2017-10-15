@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Bank Shot!</name>
+    <directory>bankshot</directory>
+    <id>891893639</id>
+    <description>Bank shot! Billiard tears.
+
+Bank shot is an item that makes it so Isaac's tears never drop out of the air and instead, will come to a halt when they hit their max range. It also makes it so your tears now collide with each other with a satisfying clack, letting you ricochet tears off each other into enemies, or fill the room with tears and push them into em! You can find this item in Treasure Rooms. 
+
+See it in action here:  https://gfycat.com/MisguidedFaroffBunny
+Synergies:  https://gfycat.com/MeanBewitchedCob
+
+Code by your boy Scayze and art by your other boy Ashkait.</description>
+    <version>1.5</version>
+    <visibility>Public</visibility>
+    <tag id="Items"/>
+</metadata>

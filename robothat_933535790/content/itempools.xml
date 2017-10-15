@@ -1,0 +1,5 @@
+<ItemPools>
+	<Pool Name="shop">
+		<Item Name="Robot Hat" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+	</Pool>
+</ItemPools>

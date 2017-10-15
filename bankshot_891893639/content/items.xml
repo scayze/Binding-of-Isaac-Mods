@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+	<familiar cache = "shotspeed range" description="billiard tears" gfx="ballcon.png" name="Bank Shot" />
+</items>

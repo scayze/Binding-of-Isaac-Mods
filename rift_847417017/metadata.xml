@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Twisty Tuning Fork</name>
+    <directory>rift</directory>
+    <id>847417017</id>
+    <description>Let's get rifty!
+
+The Twisty Tuning Fork is an item with a 2 room recharge that can be found in item rooms and devil deals. 
+
+When used, it'll summon a interdimensional rift from the same dimension Multidimensional baby comes from! Meaning it will double anything you shoot through it! It'll last the whole room, making it ideal for boss fights and greed mode!
+
+It also has some... unstable effects with consumables.</description>
+    <version>1.4</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Pickups"/>
+</metadata>

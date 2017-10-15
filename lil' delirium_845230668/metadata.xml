@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Lil' Delirium</name>
+    <directory>lil' delirium</directory>
+    <id>845230668</id>
+    <description>Hes Delirious!
+
+A mod created by Scayze with art and idea created by Ashkait (me!)
+
+Add a passive item found in angel rooms that will transform into other familiars every 10 seconds, mimicing their behaviour entirely. You could get Lil' Brim and Meatboy, but watch out for Bobs Brain and BBF!
+
+Works with Diplopia however currently does not work with box of friends (sorry lilith mains :( )
+
+</description>
+    <version>1.1</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Familiars"/>
+</metadata>

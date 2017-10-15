@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Ragged Rags</name>
+    <directory>tearsword</directory>
+    <id>857006260</id>
+    <description>Ragged Rags! Telepathic tears.
+
+Ragged Rags is an unusual item. This Item will make it so you no longer fire tears, instead your tears will grow outwards from Isaac, until they hit a certain distance (Capped by your range!). You can use your bar of tears to get up close and personal, landing multiple tear shots at the same time. You can find these dirty old things in curse rooms and cursed chests!
+
+Art and design by Ashkait, Coding by Scayze</description>
+    <version>1.3</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+</metadata>

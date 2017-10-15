@@ -1,0 +1,9 @@
+<entities anm2root="gfx/" version="5">
+	<entity anm2path="Pacman_Ghost.anm2" baseHP="1337" boss="0" champion="0" collisionDamage="12" collisionMass="100" collisionRadius="10" friction="1" id="600" name="PacmanGhost" numGridCollisionPoints="12" shadowSize="15" stageHP="0" variant="0">
+        <gibs amount="5" blood="0" bone="0" eye="5" gut="0" large="0" />
+    </entity>
+	<entity anm2path="005.021_Penny.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1" id="5" name="Penny" numGridCollisionPoints="24" shadowSize="11" stageHP="0" variant="20" subtype="1">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+	    <preload-snd id="234" /> <!-- PENNYPICKUP -->
+    </entity>
+</entities>

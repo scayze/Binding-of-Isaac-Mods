@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Rainbow spider</name>
+    <directory>speder</directory>
+    <id>850598517</id>
+    <description>Your new best buddy, Rainbow Spider! He'll never leave your side.
+
+Rainbow spider is familiar akin to an attack spider, except it'll respawn right back at your side after a few seconds! However, whenever he respawns, he will take on a new appearance! Each visage he takes on gives him a new debuff on attack.
+Red will charm, green will poison, orange will ignite and so on! You can find this little fella in item rooms, and just like attack spiders, his damage scales with your tear damage.
+
+He also counts towards the &quot;Spider baby&quot; transformation!
+
+Code by Scayze and sprites by Ashkait</description>
+    <version>1.1</version>
+    <visibility>Private</visibility>
+</metadata>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Jumper Cables</name>
+    <directory>jumper cables</directory>
+    <id>846644717</id>
+    <description>Jumper Cables!
+
+A simple item found in shops, these will give you 1 bar of charge for every 15 enemies you kill. Thats it really. Enjoy!
+
+Sprite bits by Ashkait and Script bits by Scayze.</description>
+    <version>1.1</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+</metadata>

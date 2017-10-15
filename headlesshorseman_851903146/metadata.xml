@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Headless Horsemini</name>
+    <directory>headlesshorseman</directory>
+    <id>851903146</id>
+    <description>Headless Horsemini! We didn't forget him!
+
+The Headless Horsemini is a tiny version of... you can guess who. The body and head act independently; the head will shoot a triple spread of tears and charge across the screen at enemies, whilst the body will spawn flies at random! You can find this inseparable pair in Treasure rooms!
+
+Sprites and animations by Ashkait and coded by Scayze!</description>
+    <version>1.2</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Familiars"/>
+</metadata>

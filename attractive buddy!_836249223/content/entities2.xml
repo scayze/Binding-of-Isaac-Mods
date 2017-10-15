@@ -1,0 +1,5 @@
+<entities anm2root="gfx/" version="5">
+	<entity anm2path="669.699_custom_fam.anm2" baseHP="0" boss="0" champion="11" collisionDamage="3" collisionMass="2" collisionRadius="13" friction="1" id="3" name="Attractive Buddy" numGridCollisionPoints="12" shadowSize="15" stageHP="0" variant="100">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+</entities>

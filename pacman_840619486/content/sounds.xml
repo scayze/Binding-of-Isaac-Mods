@@ -1,0 +1,5 @@
+<sounds root="sfx/">
+	<sound id="462" name="pac_start">
+		<sample weight="1" path="pac_start.wav"/>
+	</sound>
+</sounds>

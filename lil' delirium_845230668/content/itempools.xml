@@ -1,0 +1,8 @@
+<ItemPools>
+	<Pool Name="angel">
+		<Item Name="Lil' Delirium" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+	</Pool>
+	<Pool Name="greedAngel">
+		<Item Name="Lil' Delirium" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+	</Pool>
+</ItemPools>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Blinks</name>
+    <directory>blinks</directory>
+    <id>846411133</id>
+    <description>Blank bombs ain't your thing? How about Blinks! 
+
+Blinks are an active item you can find in shops that open secret room doors, and clear the screen of bullets whenever you want! Neat! 
+However, you get 3 charges per floor that cannot be replenished at all until you go down to the next floor, where you're given 3 new ones to play with!
+Art and design by Ashkait and scripting genius by Scayze. 
+
+(Enter the Gungeon? Never heard of it)</description>
+    <version>1.4</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Active Items"/>
+</metadata>

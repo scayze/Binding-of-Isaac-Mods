@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+	<passive description="Kills=XP!!" gfx="robothat.png" maxcharges="0" name="Robot Hat" />
+</items>

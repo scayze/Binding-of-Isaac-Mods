@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+	<familiar description="Eternal spider buddy" gfx="speder.png" name="Rainbow spider"/>
+</items>

@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+	<familiar description="Static tears!" gfx="zeroicon.png" name="Technology Zero" />
+</items>

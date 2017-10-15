@@ -1,0 +1,11 @@
+<ItemPools>
+	<Pool Name="treasure">
+		<Item Name="Attractive Buddy" Weight="10" DecreaseBy="0.5" RemoveOn="0.1"/>
+	</Pool>
+	<Pool Name="bossrush">
+		<Item Name="Attractive Buddy" Weight="10" DecreaseBy="0.5" RemoveOn="0.1"/>
+	</Pool>
+	<Pool Name="challenge">
+		<Item Name="Attractive Buddy" Weight="10" DecreaseBy="0.5" RemoveOn="0.1"/>
+	</Pool>
+</ItemPools>

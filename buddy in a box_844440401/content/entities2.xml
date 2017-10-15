@@ -1,0 +1,5 @@
+<entities anm2root="gfx/" version="5">
+	<entity anm2path="001.001_player2.anm2" baseHP="0" boss="0" champion="11" collisionDamage="0" collisionMass="2" collisionRadius="0" friction="1" id="3" name="BoxBuddy" numGridCollisionPoints="12" shadowSize="15" stageHP="0" variant="200">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+</entities>

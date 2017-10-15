@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Technology Zero</name>
+    <directory>shocktears</directory>
+    <id>850840324</id>
+    <description>Technology Zero: Static tears! 
+
+With Technology Zero, we couldn't perfect actual laser beams coming out of your eyes... So instead we just made your tears electric and let physics do the rest! Arcs of electricity will jump between your tears, works perfectly with many other items! You can find this tech in item rooms.
+
+Art by Ashkait and AMAZING CODE by Scayze</description>
+    <version>1.2</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+</metadata>

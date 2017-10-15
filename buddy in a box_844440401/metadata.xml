@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Buddy In A Box</name>
+    <directory>buddy in a box</directory>
+    <id>844440401</id>
+    <description>A Mod that realized the Idea by Ashklain on reddit:
+https://www.reddit.com/r/bindingofisaac/comments/5o587n/idea_buddy_in_a_box/
+
+Adds an Item, &quot;Buddy in a box&quot;.
+When picked up, Grants Isaac a random baby using any co-op baby sprite at random. Its stats are randomly chosen when picked up. When finishing a floor, the baby will be fully randomized again.
+
+Programming by Scayze (me)</description>
+    <version>1.7</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Familiars"/>
+    <tag id="Babies"/>
+</metadata>

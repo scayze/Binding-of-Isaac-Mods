@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Robot Hat</name>
+    <directory>robothat</directory>
+    <id>933535790</id>
+    <description>Kills = XP!!
+
+When you kill enemies, they drop collectible bits of XP that increase your shotspeed and tears for the duration of the stage (up to 2x tears and 1.25x shotspeed). And you lose some of those collectibles when getting hit.
+When finishing a stage without getting hit, you receive a &quot;Level Up&quot; which grants -1 FireDelay.
+
+Idea, art, animation by electoon
+Excellent coding work by Scayze
+XP sprites and inspiration taken from CaveStory and Nicalis :)</description>
+    <version>1.3</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+</metadata>

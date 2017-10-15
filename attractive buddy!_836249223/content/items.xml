@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+	<familiar description="Stealing your Grills!" gfx="Collectibles_AttractiveBuddy.png" id="500" name="Attractive Buddy" />
+</items>

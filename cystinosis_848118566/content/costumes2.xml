@@ -1,0 +1,3 @@
+<costumes anm2root="gfx/characters/">
+	<costume anm2path="rockshothead.anm2" hasSkinAlt="true" priority="24" type="none"/>
+</costumes>    

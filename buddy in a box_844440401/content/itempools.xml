@@ -1,0 +1,20 @@
+<ItemPools>
+	<Pool Name="treasure">
+		<Item Name="Buddy in a box" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+	</Pool>
+	<Pool Name="bossrush">
+		<Item Name="Buddy in a box" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+	</Pool>
+	<Pool Name="beggar">
+		<Item Name="Buddy in a box" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+	</Pool>
+	<Pool Name="greedTreasure">
+		<Item Name="Buddy in a box" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+	</Pool>
+	<Pool Name="greedSecret">
+		<Item Name="Buddy in a box" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+	</Pool>
+	<Pool Name="greedShop">
+		<Item Name="Buddy in a box" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+	</Pool>
+</ItemPools>
