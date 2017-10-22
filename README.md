@@ -2,7 +2,7 @@
 A Collection of all my mods i ever created
 
 ### Installing
-Do not install these mods using these files. Just subscribe to them over at the [Steam Workshop](http://steamcommunity.com/id/Scayze/myworkshopfiles/?p=3)
+Do not install these mods using these files. Just subscribe to them over at the [Steam Workshop](http://steamcommunity.com/id/Scayze/myworkshopfiles/)
 
 ### Contribute
 I doubt that anyone is interested in this, but if anyone is, feel free to fix bugs, clean up, spellcheck or even add features to one of the mods.
